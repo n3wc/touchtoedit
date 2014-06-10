@@ -1,0 +1,5 @@
+".core":{
+	width:Ti.UI.SIZE,
+	height:Ti.UI.SIZE,
+	backgroundColor:'transparent'
+}

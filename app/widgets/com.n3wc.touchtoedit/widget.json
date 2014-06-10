@@ -1,0 +1,13 @@
+{
+	"id": "com.n3wc.touchtoedit",
+	"name": "com.n3wc.touchtoedit",
+	"description" : "converts text labels to inputs on touch events",
+	"author": "jesse newcomer @n3wc",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2012",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,ios"
+}

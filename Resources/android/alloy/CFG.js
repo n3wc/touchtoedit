@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"com.n3wc.touchtoedit":"1.0"}};

@@ -1,0 +1,19 @@
+<Alloy>
+	<Window class="container">
+		<View layout="vertical" backgroundColor="#efefef">
+			<View height="40" />
+			<Label>pinch</Label>
+			<Require type="widget" src="com.n3wc.touchtoedit" id="demoTextBox"/>
+			<Label>doubletap</Label>
+			<Require type="widget" src="com.n3wc.touchtoedit" id="demoTextArea"/>
+			<Label>swipe (switch)</Label>
+			<Require type="widget" src="com.n3wc.touchtoedit" id="demoSwitch"/>
+			<Label>longpress (slider)</Label>
+			<Require type="widget" src="com.n3wc.touchtoedit" id="demoSlider"/>
+			<Label>twofingertap</Label>
+			<Require type="widget" src="com.n3wc.touchtoedit" id="demoTextBoxtwofingertap"/>
+			<Label>singletap</Label>
+			<Require type="widget" src="com.n3wc.touchtoedit" id="demoTextBoxsingletap"/>
+		</View>	
+	</Window>
+</Alloy>
